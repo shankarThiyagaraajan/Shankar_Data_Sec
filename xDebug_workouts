@@ -112,9 +112,6 @@ class n {
 
 }
 
-function rest() {
-    echo 123;
-}
 
 $vs = new n();
 echo $vs->bar(3);
@@ -149,6 +146,7 @@ $res = $stk->a($a);
 
 xdebug_print_function_stack('Your Message');            //To Print "Your Message" text in a message.
 
+/* Used to Findout the time taken to execute code. */
 
 echo '<br><br>' . xdebug_time_index() . '<br>';          //Display the start time.
 
