@@ -1,8 +1,8 @@
 <?php
 
-/* Product     : xDebug Doc.
- * Author      : Shankar Thiyagaraajan,
+/* Product     : xDebug Doc. 
  * Description : xDebug Tools reference with examples.,
+ * Author      : Shankar Thiyagaraajan,
  * Mail        : shankarthiyagaraajan@gmail.com.
  */
 
